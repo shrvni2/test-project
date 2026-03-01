@@ -16,3 +16,5 @@ This project aims to develop a machine learning model that can detect skin disea
 3. Train the model: `python train.py`
 4. Evaluate the model: `python evaluate.py`
 5. Use the model to make predictions: `python predict.py`
+## Contributing
+If you'd like to contribute to this project, please fork the repository and submit a pull request.
